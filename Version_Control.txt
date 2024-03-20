@@ -1,0 +1,1 @@
+This is a sentence to give brief demonstration about version control between git hub and visual studio
